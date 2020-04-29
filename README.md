@@ -1,4 +1,4 @@
-# zoom_finder
+# Zoom finder
 A little piece of pythonic code to find available zoom rooms
 
 ## Disclaimer
